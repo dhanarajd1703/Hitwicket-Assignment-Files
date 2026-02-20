@@ -31,7 +31,7 @@ Open Hitwicket Scene inside the Unity project.
 Character with default material
 Character with Cel Shader applied
 
-▶ How to Use the Shader
+ How to Use the Shader
 Select any material>In the Inspector> change the shader to:HitWicket_Cel_Shader
 
 Adjust exposed parameters:
